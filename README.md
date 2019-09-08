@@ -18,7 +18,7 @@ flower_dataset/
 ```
 
 ## # Summary
-![res](./res/paper_figure_2.png)
+![res](./res/paper_figure_2.PNG)
 
 ## # Code
 ```python
