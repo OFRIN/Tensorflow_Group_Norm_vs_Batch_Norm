@@ -17,9 +17,6 @@ flower_dataset/
     └─ tulips
 ```
 
-## # Summary
-![res](./res/paper_figure_2.PNG)
-
 ## # Code
 ```python
 def group_normalization(x, is_training, G = 32, ESP = 1e-5, scope = 'group_norm'):
